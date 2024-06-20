@@ -1,5 +1,5 @@
 
-## Logos
+
 ![Yuvraj Singh Chowdhary](https://img.shields.io/badge/Yuvraj%20Singh%20Chowdhary-orange.svg)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-blue.svg)
 ![Chatbot](https://img.shields.io/badge/Chatbot-green.svg)
